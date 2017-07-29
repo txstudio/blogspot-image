@@ -18,3 +18,7 @@ body {
 .post-title, .post-title a {
 	font-family: "Microsoft JhengHei";
 }
+
+.sidebar-container .widget {
+	padding: 15px;
+}

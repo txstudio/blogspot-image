@@ -4,6 +4,9 @@ body {
 h5 {
 	font-size: 18px;
 }
+dd {
+	margin-left: 15px;
+}
 pre {
 	padding: 5px 15px;
     border: 1px solid #bbb;

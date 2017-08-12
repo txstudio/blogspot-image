@@ -19,7 +19,7 @@ body {
 }
 .top-nav .PageList ul li a {
 	background-color: rgba(244,255,129,0.1);
-	margin-right: 5px;
+	margin-right: 10px;
 }
 .top-nav .PageList ul li a.active {
 	background-color: #263238;

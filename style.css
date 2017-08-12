@@ -4,6 +4,10 @@ body {
 h5 {
 	font-size: 18px;
 }
+pre {
+	padding: 5px 15px;
+    border: 1px solid #bbb;
+}
 
 .centered-top .Header h1 {
 	font-family: "Microsoft JhengHei";

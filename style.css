@@ -8,6 +8,11 @@ body {
 .centered-top .Header p {
 	font-family: "Microsoft JhengHei";
 }
+
+.top-nav {
+	margin-bottom: 20px;
+}
+
 .top-nav .PageList ul li {
 	font-family: "Microsoft JhengHei";
 }

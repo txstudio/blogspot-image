@@ -15,6 +15,13 @@ body {
 
 .top-nav .PageList ul li {
 	font-family: "Microsoft JhengHei";
+    font-size: 16px;
+}
+.top-nav .PageList ul li a {
+	background-color: rgba(244,255,129,0.1);
+}
+.top-nav .PageList ul li a.active {
+	background-color: #263238;
 }
 .top-nav .PageList h3 {
 	display:none;

@@ -7,6 +7,10 @@ body {
 }
 .centered-top .Header p {
 	font-family: "Microsoft JhengHei";
+	font-style: normal;
+	font-size: 24px;
+	margin-bottom: 0;
+	margin-left: 10px;
 }
 
 .top-nav {

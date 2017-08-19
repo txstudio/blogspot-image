@@ -16,6 +16,11 @@ dd {
 pre {
 	padding: 5px 15px;
     border: 1px solid #bbb;
+	background: #eee;
+	color: #444;
+	font-family: Consolas;
+	font-size: 14px;
+	border-radius: 3px;
 }
 
 .centered-top .Header h1 {

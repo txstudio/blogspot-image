@@ -1,12 +1,13 @@
 $(function(){
 	var _href = "";
-	var _matchPattern = "/search/label/";
+	var _matchPattern = "/search";
 	
 	if(location.href.match(_matchPattern) == undefined)
 	{
 	}
 	else
 	{
+		//搜尋結果不顯示最新貼文
 		$("#featured_post").css("display","none");
 	}
 	

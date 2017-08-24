@@ -86,3 +86,9 @@ pre {
 .PopularPosts .popular-posts-snippet {
 	font-family: "Microsoft JhengHei";
 }
+
+/* 文章顯示標籤樣式 */
+.Label li a, .Label span.label-size, .byline.post-labels a {
+	font-family: "Microsoft JhengHei";
+}
+

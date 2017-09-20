@@ -25,6 +25,15 @@ pre {
 	font-size: 14px;
 	border-radius: 3px;
 }
+table {
+	border: 1px solid #bbb;
+}
+th {
+	border-bottom: 1px dashed #eee;
+}
+th, td {
+	padding: 3px 15px;
+}
 
 .centered-top .Header h1 {
 	font-family: "Microsoft JhengHei";

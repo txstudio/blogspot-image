@@ -6,12 +6,12 @@ h5 {
 }
 blockquote {
 	padding: 5px 15px;
-    font-family: "Microsoft JhengHei";
-    border-left: 0.25em solid #666;
-    margin-left: 0;
-    font-size: 14px;
-    text-align: left;
-    font-style: normal;
+	font-family: "Microsoft JhengHei";
+	border-left: 0.25em solid #666;
+	margin-left: 0;
+	font-size: 14px;
+	text-align: left;
+	font-style: normal;
 }
 dd {
 	margin-left: 15px;
